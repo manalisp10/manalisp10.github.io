@@ -3,7 +3,7 @@ project:
   output-dir: docs 
 
 website:
-  title: "manalisp10.github.io"
+  title: "Manali Builds"
   navbar:
     left:
       - href: index.qmd
